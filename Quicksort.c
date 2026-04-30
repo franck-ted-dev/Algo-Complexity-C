@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// test de pull
 // tausche zwei Elemente im Array
 void swap(int data[], int x1, int x2) {
   int temp = data[x1];
